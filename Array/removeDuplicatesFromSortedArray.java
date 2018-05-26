@@ -2,7 +2,8 @@
 #Author : Yuan Wang
 #Date   : 2018-05-26
 
-Algorithm
+Algorithm:
+
 
 Since the array is already sorted, we can keep two pointers ii and jj, 
 where ii is the slow-runner while jj is the fast-runner. As long as 
