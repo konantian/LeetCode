@@ -1,4 +1,7 @@
 /*
+#Author : Yuan Wang
+#Date   : 2018-05-26
+
 Algorithm
 
 Since the array is already sorted, we can keep two pointers ii and jj, 
