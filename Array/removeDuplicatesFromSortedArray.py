@@ -16,7 +16,7 @@
 #               
 #**********************************************************************************/
 
-#worked well with less time
+#worked well with less time,accepted by the leetcode.com
 def removeDuplicates(nums):
 	"""
 	:type nums: List[int]
