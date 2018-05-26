@@ -16,6 +16,7 @@
 #               
 #**********************************************************************************/
 
+#worked well with less time
 def removeDuplicates(nums):
 	"""
 	:type nums: List[int]
@@ -28,7 +29,8 @@ def removeDuplicates(nums):
 			nums[k] = nums[i]  
 	  
 	del nums[k+1:len(nums)]
-	
+
+#worked well but slow for large array	
 def removeDuplicatesB(nums):
 	for i in nums:
 		repeat=nums.count(i)
@@ -36,6 +38,7 @@ def removeDuplicatesB(nums):
 			for j in range(repeat-1):
 				nums.remove(i)
 
+#worked well but slow for large array	
 def removeDuplicatesB(nums):
 	for i in nums:
 		while(nums.count(i)>1):
