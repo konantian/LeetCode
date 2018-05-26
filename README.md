@@ -1,1 +1,1 @@
-# leetcode
+#leetcode self solution
