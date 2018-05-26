@@ -13,11 +13,11 @@
 # 
 # Your function should return length = 2, and A is now [1,2].
 # 
-#               
+#	   
 #**********************************************************************************/
 
 #worked well with less time,accepted by the leetcode.com
-def removeDuplicates(nums):
+def removeDuplicatesA(nums):
 	"""
 	:type nums: List[int]
 	:rtype: int
@@ -28,7 +28,9 @@ def removeDuplicates(nums):
 			k+=1  
 			nums[k] = nums[i]  
 	  
-	del nums[k+1:len(nums)]
+	#del nums[k+1:len(nums)]
+
+	return k+1
 
 #worked well but slow for large array	
 def removeDuplicatesB(nums):
@@ -38,12 +40,14 @@ def removeDuplicatesB(nums):
 			for j in range(repeat-1):
 				nums.remove(i)
 
+	return len(nums)
 #worked well but slow for large array	
-def removeDuplicatesB(nums):
+def removeDuplicatesC(nums):
 	for i in nums:
 		while(nums.count(i)>1):
 			nums.remove(i)
+	return len(nums)
 
 A=[1,1,2,3,3,3,4,4,5]
-removeDuplicates(A)
-print(A)
+count=removeDuplicatesA(A)
+print(count)
