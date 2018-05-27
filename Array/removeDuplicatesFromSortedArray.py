@@ -21,7 +21,10 @@ def removeDuplicatesA(nums):
 	"""
 	:type nums: List[int]
 	:rtype: int
+
 	"""
+	if not nums:
+		return 0
 	k=0  
 	for i in range(1,len(nums)):  
 		if nums[i] != nums[k]:  
@@ -50,4 +53,4 @@ def removeDuplicatesC(nums):
 
 A=[1,1,2,3,3,3,4,4,5]
 count=removeDuplicatesA(A)
-print(count)
+print(A[:count])

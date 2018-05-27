@@ -25,6 +25,12 @@ def removeElementA(nums, val):
 	for i in range(nums.count(val)):
 		nums.remove(val)
 def removeElementB(nums,val):
+
+	if not nums:
+		return 0
+	if len(nums) == 1:
+		return 1
+		
 	begin=0
 	for i in range(len(nums)):
 		if nums[i] != val:
