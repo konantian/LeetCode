@@ -1,6 +1,5 @@
 '''
 Source : https://oj.leetcode.com/problems/search-insert-position/
-Inspired by : http://www.jiuzhang.com/solutions/search-insert-position/
 Author : Yuan Wang
 Date   : 2018-05-27
 
