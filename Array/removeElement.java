@@ -17,9 +17,10 @@ public class removeElement {
         int value = 3;
         int result=remove_element(array,value);
 
-        for(int i=0;i<result;i++){
-        	System.out.println(array[i]);
+        for(int i =0;i<result;i++){
+            System.out.print(array[i]+",");
         }
+        System.out.print("\n");
         
     }
 //Count how many elements are different with the val,and move the different elements to the front of the array

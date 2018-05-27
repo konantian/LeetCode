@@ -15,10 +15,10 @@ incremented and we repeat the same process again until jj reaches the end of arr
 
 Complexity analysis
 
-Time complextiy : O(n)O(n). Assume that nn is the length of array.
+Time complextiy : O(n). Assume that nn is the length of array.
 Each of ii and jj traverses at most nn steps.
 
-Space complexity : O(1)O(1).
+Space complexity : O(1).
 */
 
 
@@ -29,8 +29,11 @@ public class removeDuplicatesFromSortedArray {
         int array[] = {1,1,2,3,3,3,4,4,5};
         int count=0;
         count=removeDuplicates(array);
-        System.out.println(count);
-        
+        for(int i=0;i<count;i++){
+            System.out.print(array[i]);
+
+        }
+        System.out.print("\n");
     }
 
     public static int removeDuplicates(int[] nums){
