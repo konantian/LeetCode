@@ -44,7 +44,7 @@ def searchInsertA(nums, target):
             else:
                 return 0
 
-#48 ms, using binary search to find the position，O(logn)
+#48 ms, using binary search to find the position，takes O(logn)
 def searchInsertB(nums, target):
         """
         :type nums: List[int]
@@ -64,6 +64,10 @@ def searchInsertB(nums, target):
         return low
 
 #36 ms,i is the index, num is the element in list,O(n) in worst 
+#using the enumerate method to iterate the index and the element 
+#at the same time and test if the element in the list is greater than
+#the target, and return the current index other wise just return the
+#length as the index to insert the target
 def searchInsertC(nums, target):
         """
         :type nums: List[int]
@@ -71,12 +75,14 @@ def searchInsertC(nums, target):
         :rtype: int
         """
         for i, num in enumerate(nums):
-            print(i,num)
             if num >= target:
                 return i
         return len(nums)
 
 #40ms,O(n) in worst
+#iterate the list by index and find the element that greater than the
+#target otherwise just return the length which means the target is greater
+#than the last element in the list
 def searchInsertD(nums, target):
         """
         :type nums: List[int]
@@ -89,6 +95,9 @@ def searchInsertD(nums, target):
                 return i
         return l
 #36ms, O(n) in worst 
+#to make another list that only includes the element that samller than
+#the target,then return the length of the num which is the index to 
+#insert the target. Time complexity: O(n) in worst, Space complexity O(n)
 def searchInsertE(nums, target):
         """
         :type nums: List[int]
