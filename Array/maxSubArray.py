@@ -56,8 +56,9 @@ def maxSubArrayC(nums):
 	res=nums[0]
 	sum_array=nums[0]
 	for i in range(1,len(nums)):
-		sum_array=max(sum_array,0)+nums[i]
+		#sum_array=max(sum_array,0)+nums[i]
+		sum_array=0+nums[i] if sum_array < 0 else sum_array+nums[i]
 		res=max(res,sum_array)
-		print(sum_array,res)
 	return res
+
 print(maxSubArrayC(array))
