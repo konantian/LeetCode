@@ -11,3 +11,5 @@ LeetCode Self Solution
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py), [Java](./Array/removeDuplicatesFromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py), [Java](./Array/removeElement.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|
+
