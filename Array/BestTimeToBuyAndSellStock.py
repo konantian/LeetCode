@@ -9,7 +9,10 @@ Date   : 2018-06-02
 * 
 * If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), 
 * design an algorithm to find the maximum profit.
-*	   
+*
+*Time complexity : O(n). Only a single pass is needed.
+
+Space complexity : O(1). Only two variables are used.
 **********************************************************************************/
 '''
 
