@@ -38,9 +38,14 @@ def generate(numRows):
 # +  0 1 3 3 1
 # =  1 4 6 4 1
 def generate(numRows):
-	res = [[1]]
-	for i in range(1, numRows):
-		temp1 = res[-1] + [0]
-		temp2 = [0] + res[-1]
-		res.append([temp1[i]+temp2[i] for i in range(len(temp1))])
-	return res[:numRows]
+	LL=[]
+	if numRows == 0:
+		return LL
+	elif numRows == 1:
+		return [[1]]
+	row=[1]
+	LL.append(row)
+	for _ in range(numRows-1):
+		row = [x + y for x, y in zip([0]+row, row+[0])]
+		LL.append(row)
+	return LL
