@@ -1,6 +1,6 @@
 '''
 Source : https://oj.leetcode.com/problems/pascals-triangle/
-Author : Hao Chen
+Author : Yuan Wang
 Date   : 2018-06-01
 
 /********************************************************************************** 
