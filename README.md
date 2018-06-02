@@ -15,4 +15,4 @@ LeetCode Self Solution
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Python](./Array/pascalTriangle.py), [Java](./Array/pascalTriangle.java)|Easy|
-|119|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Python](./Array/pascalTriangleII.py), [Java](./Array/pascalTriangleII.java)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Python](./Array/pascalTriangleII.py), [Java](./Array/pascalTriangleII.java)|Easy|
