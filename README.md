@@ -16,3 +16,4 @@ LeetCode Self Solution
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Python](./Array/pascalTriangle.py), [Java](./Array/pascalTriangle.java)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Python](./Array/pascalTriangleII.py), [Java](./Array/pascalTriangleII.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Array/BestTimeToBuyAndSellStock.py), [Java](./Array/BestTimeToBuyAndSellStock.java)|Easy|
