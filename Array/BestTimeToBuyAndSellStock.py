@@ -40,4 +40,5 @@ def maxProfitB(prices):
 		maxCur=max(0,maxCur)
 		maxSoFar=max(maxCur,maxSoFar)
 	return maxSoFar
+
 print(maxProfitB([7,1,5,3,6,4]))
