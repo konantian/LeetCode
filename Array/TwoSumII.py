@@ -15,8 +15,8 @@ Date   : 2018-06-03
 * You may assume that each input would have exactly one solution.
 * 
 * Input: numbers={2, 7, 11, 15}, target=9
-* Output: index1=1, index2=2 
-* 
+* Output: [1,2]
+* Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 **********************************************************************************/
 '''
 #two pointers
