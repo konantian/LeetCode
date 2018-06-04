@@ -20,4 +20,4 @@ LeetCode Self Solution
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./Array/BestTimeToBuyAndSellStockII.py), [Java](./Array/BestTimeToBuyAndSellStockII.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|
-|189|[Majority Element](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|
