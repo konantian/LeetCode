@@ -60,4 +60,18 @@ def missingNumberC(nums):
 		if number not in num_set:
 			return number
 
-print(missingNumberC([0,1,3]))
+#xor, bit manipulation operations takes O(1)
+#In total Time complexity:O(n), Space complexity: O(1)
+
+def missingNumberD(nums):
+	"""
+	:type nums: List[int]
+	:rtype: int
+	"""
+
+	missing = len(nums)
+	for i, num in enumerate(nums):
+		missing ^= i ^ num
+	return missing
+
+print(missingNumberD([3,1,0]))
