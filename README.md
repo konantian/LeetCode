@@ -2,8 +2,8 @@ LeetCode Self Solution
 ========
 
 ### LeetCode Algorithm
-The only source of knowledge is experience - Albert Einstein
-Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
+The only source of knowledge is experience - Albert Einstein\
+Algorithms Plus Data Structures Equals Programs - Niklaus Wirth\
 Stay Hungry, Stay Foolish - Steve Jobs
 
 
