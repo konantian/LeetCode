@@ -2,7 +2,9 @@ LeetCode Self Solution
 ========
 
 ### LeetCode Algorithm
-
+The only source of knowledge is experience - Albert Einstein
+Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
+Stay Hungry, Stay Foolish - Steve Jobs
 
 
 | # | Title | Solution | Difficulty |
@@ -24,5 +26,3 @@ LeetCode Self Solution
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|
-
-The only source of knowledge is experience - Albert Einstein
