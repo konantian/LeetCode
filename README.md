@@ -27,3 +27,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|
+|448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Python](./Array/findPairs.py), [Java](./Array/findPairs.java)|Easy|
+
