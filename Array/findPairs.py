@@ -50,6 +50,35 @@ def findPairs(nums, k):
 			if d[i] > 1:
 				count+=1
 		return count
+
+#another way using set instead of dic,reduce using of extra space
+def findPairsB(nums, k):
+	"""
+	:type nums: List[int]
+	:type k: int
+	:rtype: int
+	"""
+	count=0
+	if k < 0:
+		return 0
+	if k > 0:
+		nums=set(nums)
+		copy=nums.copy()
+		for i in nums:
+			if i+k in copy:
+				count+=1
+			if i-k in copy:
+				count+=1
+			copy.remove(i)
+
+		return count
+	else:
+		d=dict(collections.Counter(nums))
+		for i in d:
+			if d[i] > 1:
+				count+=1
+		return count
+
 nums=[1,3,4,5,1]
 k=0
 print(findPairs(nums,k))
