@@ -30,6 +30,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Python](./Array/findPairs.py), [Java](./Array/findPairs.java)|Easy|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Python](./Array/matrixReshape.py), [Java](./Array/matrixReshape.java)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Python](./Array/findUnsortedSubarray.py), [Java](./Array/findUnsortedSubarray.java)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|
 
