@@ -50,7 +50,7 @@ def thirdMax(nums):
         return nums[0]
     elif len(nums) == 2:
         return max(nums)
-    return select(nums,len(nums)-3)
+    return select(nums,0)
 
 def partition(x,pivot=0):
     i=0
@@ -86,5 +86,5 @@ def thirdMaxB(nums):
         return nums[-1]
     return nums[-3]
 
-print(thirdMaxB([2,2,3,1]))
+print(thirdMax([-1,-2,-3,0,1,2]))
     

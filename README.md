@@ -33,4 +33,5 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Python](./Array/matrixReshape.py), [Java](./Array/matrixReshape.java)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Python](./Array/findUnsortedSubarray.py), [Java](./Array/findUnsortedSubarray.java)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|
 
