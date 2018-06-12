@@ -35,4 +35,5 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|
 
