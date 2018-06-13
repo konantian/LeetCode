@@ -37,4 +37,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|
-
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|
