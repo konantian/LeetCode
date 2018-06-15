@@ -61,7 +61,7 @@ def rotateC(nums, k):
 		temp[(i+k) % len(nums)]=nums[i]
 	for i in range(len(nums)):
 		nums[i]=temp[i]
-nums=[1,2,3,4,5,6,7]
-k=3
-rotateC(nums,3)
+nums=[1,2]
+k=10
+rotateA(nums,3)
 print(nums)
