@@ -36,6 +36,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Python](./Array/imageSmoother.py), [Java](./Array/imageSmoother.java)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Python](./Array/checkPossibility.py), [Java](./Array/checkPossibility.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Python](./Array/findShortestSubArray.py), [Java](./Array/findShortestSubArray.java)|Easy|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|
