@@ -27,6 +27,10 @@ def check_order(numbers):
 	
 	return True
 
+#Find the element that not in order, and test if remove it, the
+#remain list are still sorted, if sorted, which means modify at
+#most 1 time can make the array non-decreasing. Otherwise, the
+#remain list are not sorted, just return False
 def checkPossibility(nums):
 	"""
 	:type nums: List[int]
