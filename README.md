@@ -41,3 +41,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](./Array/flipAndInvertImage.py), [Java](./Array/flipAndInvertImage.java)|Easy|
