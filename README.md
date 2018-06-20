@@ -38,6 +38,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Python](./Array/imageSmoother.py), [Java](./Array/imageSmoother.java)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Python](./Array/checkPossibility.py), [Java](./Array/checkPossibility.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Python](./Array/maxAreaOfIsland.py), [Java](./Array/maxAreaOfIsland.java)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Python](./Array/findShortestSubArray.py), [Java](./Array/findShortestSubArray.java)|Easy|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|
