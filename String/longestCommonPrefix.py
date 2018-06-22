@@ -51,5 +51,36 @@ def check_str(element,strs,start):
     
     return True
 
+
+'''
+Algorithm
+
+To employ this idea, the algorithm iterates through the strings [S_1 ... S_n]
+​finding at each iteration ii the longest common prefix of strings LCP(S_1 ... S_i)
+When LCP(S_1 ... S_i) is an empty string, the algorithm ends. Otherwise after 
+n iterations, the algorithm returns LCP(S_1 ... S_n)
+Time complexity: O(n), Space Complexity:O(1)
+'''
+def longestCommonPrefix(strs):
+    """
+    :type strs: List[str]
+    :rtype: str
+    """
+    if not strs:
+        return ""
+    prefix=strs[0]
+    for i in range(1,len(strs)):
+        while indexof(strs[i],prefix) !=0:
+            prefix=prefix[0:len(prefix)-1]
+            if len(prefix) == 0:
+                return ""
+    return prefix
+    
+def indexof(string,substring):
+    try:
+        return string.index(substring)
+    except:
+        return -1
+
 strs=["flower","flow","flight"]
 print(longestCommonPrefix(strs))
