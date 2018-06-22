@@ -10,8 +10,8 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 | # | Title | Solution | Difficulty | Tag |
 |---|:-----:| -------- |:----------:|:---:|
 |01|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./Array/TwoSum.py), [Java](./Array/TwoSum.java)|Easy|Array|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|Array|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py), [Java](./Array/removeDuplicatesFromSortedArray.java)|Easy|String|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|String|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py), [Java](./Array/removeDuplicatesFromSortedArray.java)|Easy|Array|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py), [Java](./Array/removeElement.java)|Easy|Array|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
