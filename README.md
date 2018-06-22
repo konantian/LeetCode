@@ -13,6 +13,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|String|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py), [Java](./Array/removeDuplicatesFromSortedArray.java)|Easy|Array|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py), [Java](./Array/removeElement.java)|Easy|Array|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](./String/strStr.py), [Java](./String/strStr.java)|Easy|String|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
