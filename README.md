@@ -46,3 +46,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [Python](./Array/largeGroupPositions.py), [Java](./Array/largeGroupPositions.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](./Array/flipAndInvertImage.py), [Java](./Array/flipAndInvertImage.java)|Easy|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Python](./Array/numMagicSquaresInside.py), [Java](./Array/numMagicSquaresInside.java)|Easy|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [Python](./Array/maxDistToClosest.py), [Java](./Array/maxDistToClosest.java)|Easy|
