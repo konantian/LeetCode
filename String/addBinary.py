@@ -28,7 +28,7 @@ def addBinary(a, b):
 	"""
 	return bin(int(a,2)+int(b,2))[2:]
 
-#self solution
+#self solution,Time complexity:O(n), Space complexity:O(1)
 def addBinaryB(a, b):
 	"""
 	:type a: str

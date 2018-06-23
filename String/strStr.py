@@ -28,7 +28,7 @@ Date   : 2018-06-22
 **********************************************************************************/
 '''
 
-#equal to haystack.find(needle)
+#equal to haystack.find(needle),Time complexity:O(n), Space Complexity:O(1)
 def strStr(haystack, needle):
 	"""
 	:type haystack: str
