@@ -52,5 +52,5 @@ def twoSumB(nums,target):
 			return [buff_dict[nums[i]], i]
 		else:
 			buff_dict[target - nums[i]] = i
-
+			
 print(twoSumB([3,2,4],6))

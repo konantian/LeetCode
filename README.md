@@ -17,6 +17,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./String/addBinary.py), [Java](./String/addBinary.java)|Easy|String|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](./Tree/isValidBST.py), [Java](./Tree/isValidBST.java)|Medium|Tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Python](./Array/pascalTriangle.py), [Java](./Array/pascalTriangle.java)|Easy|Array|
