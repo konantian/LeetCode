@@ -3,7 +3,7 @@ import java.util.*;
 public class reverseString{
 	public static void main(String args[]){
 		String s="helloworld";
-		String result=reverse_stringB(s);
+		String result=reverse_stringC(s);
 		System.out.println(result);
 	}
 
@@ -28,5 +28,15 @@ public class reverseString{
         }
         
         return new String(cs);
+    }
+
+    //method 3: traverse the string from end to front
+    public static String reverse_stringC(String s){
+        String result="";
+        for(int i=s.length()-1;i>=0;i--){
+            result+=s.charAt(i);
+        }
+
+        return result;
     }
 }
