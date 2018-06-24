@@ -33,6 +33,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
