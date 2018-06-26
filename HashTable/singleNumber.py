@@ -21,7 +21,7 @@
 **********************************************************************************/
 '''
 #self solution using dictionary, Time complexity:O(n) Space complexity:O(n)
-def singleNumber(nums):
+def singleNumber1(nums):
 	"""
 	:type nums: List[int]
 	:rtype: int
@@ -49,7 +49,7 @@ N1 ^ N1 ^ N2 ^ N2 ^..............^ Nx ^ Nx ^ N
 
 = N
 '''
-def singleNumber(nums):
+def singleNumber2(nums):
 	"""
 	:type nums: List[int]
 	:rtype: int
@@ -59,6 +59,16 @@ def singleNumber(nums):
 		first=first ^ nums[i]
 	
 	return first
+
+def singleNumber3(nums):
+    return 2*sum(set(nums))-sum(nums)
+    
+def singleNumber4(nums):
+    return reduce(lambda x, y: x ^ y, nums)
+    
+def singleNumber(nums):
+    return reduce(operator.xor, nums)
+
 
 nums=[4,1,2,1,2]
 print(singleNumber(nums))
