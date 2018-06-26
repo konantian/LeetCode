@@ -25,7 +25,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Array/BestTimeToBuyAndSellStock.py), [Java](./Array/BestTimeToBuyAndSellStock.java)|Easy|Array|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./Array/BestTimeToBuyAndSellStockII.py), [Java](./Array/BestTimeToBuyAndSellStockII.java)|Easy|Array|
 |125|[Valid Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./String/isPalindrome.py), [Java](./String/isPalindrome.java)|Easy|String|
-|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|HashTable|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|Hash Table|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|Array|
