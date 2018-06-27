@@ -16,6 +16,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](./String/strStr.py), [Java](./String/strStr.java)|Easy|String|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./String/lengthOfLastWord.py), [Java](./String/lengthOfLastWord.java)|Easy|String|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./String/addBinary.py), [Java](./String/addBinary.java)|Easy|String|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
@@ -39,6 +40,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|Array|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Python](./Array/findPairs.py), [Java](./Array/findPairs.java)|Easy|Array|
