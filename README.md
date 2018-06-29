@@ -59,6 +59,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|Array|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [Python](./Array/largeGroupPositions.py), [Java](./Array/largeGroupPositions.java)|Easy|Array|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Python](./Array/flipAndInvertImage.py), [Java](./Array/flipAndInvertImage.java)|Easy|Array|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Python](./Array/numMagicSquaresInside.py), [Java](./Array/numMagicSquaresInside.java)|Easy|Array|
