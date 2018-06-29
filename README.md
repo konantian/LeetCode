@@ -54,6 +54,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Python](./Array/imageSmoother.py), [Java](./Array/imageSmoother.java)|Easy|Array|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Python](./Array/checkPossibility.py), [Java](./Array/checkPossibility.java)|Easy|Array|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|Array|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Python](./String/validPalindrome.py), [Java](./String/validPalindrome.java)|Easy|String|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Python](./Array/maxAreaOfIsland.py), [Java](./Array/maxAreaOfIsland.java)|Easy|Array|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Python](./Array/findShortestSubArray.py), [Java](./Array/findShortestSubArray.java)|Easy|Array|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
