@@ -42,6 +42,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|Array|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Python](./String/detectCapitalUse.py), [Java](./String/detectCapitalUse.java)|Easy|String|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Python](./Array/findPairs.py), [Java](./Array/findPairs.java)|Easy|Array|
