@@ -15,6 +15,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py), [Java](./Array/removeElement.java)|Easy|Array|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](./String/strStr.py), [Java](./String/strStr.java)|Easy|String|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python](./String/countAndSay.py), [Java](./String/countAndSay.java)|Easy|String|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./String/lengthOfLastWord.py), [Java](./String/lengthOfLastWord.java)|Easy|String|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
