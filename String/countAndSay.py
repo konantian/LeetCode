@@ -1,7 +1,7 @@
 
 #Source : https://leetcode.com/problems/count-and-say/
 #Author : Yuan Wang
-#Date   : 2018-07-05
+#Date   : 2018-07-04
 '''
 ********************************************************************************** 
 *The count-and-say sequence is the sequence of integers with the first five terms as following:

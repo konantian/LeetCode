@@ -1,6 +1,6 @@
 #Source : https://leetcode.com/problems/count-and-say/
 #Author : Yuan Wang
-#Date   : 2018-07-05
+#Date   : 2018-07-04
 '''
 ********************************************************************************** 
 International Morse Code defines a standard encoding where each letter is mapped 
