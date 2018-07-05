@@ -21,7 +21,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./String/lengthOfLastWord.py), [Java](./String/lengthOfLastWord.java)|Easy|String|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./Math/addBinary.py), [Java](./Math/addBinary.java)|Easy|String|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./Dynamic&nbsp;Programming/climbStairs.py), [Java](./Dynamic&nbsp;Programming/climbStairs.java)|Easy|Dynamic Programming|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DP/climbStairs.py), [Java](./DP/climbStairs.java)|Easy|Dynamic Programming|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](./Tree/isValidBST.py), [Java](./Tree/isValidBST.java)|Medium|Tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Python](./Array/pascalTriangle.py), [Java](./Array/pascalTriangle.java)|Easy|Array|
