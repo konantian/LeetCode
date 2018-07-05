@@ -41,7 +41,7 @@ def climbStairsA(n):
 	return climbStairs(n-1)+climbStairs(n-2)
 
 
-#Dynamic Programming
+#Dynamic Programming using list
 def climbStairsB(n):
 	"""
 	:type n: int
@@ -57,5 +57,20 @@ def climbStairsB(n):
 	
 	return sample[n-1]
 
+#Dynamic Programming using dictionary
+def climbStairsC(n):
+	"""
+	:type n: int
+	:rtype: int
+	"""
+	dic={1:1,2:2}
+	if n <= 2:
+		return dic[n]
+	else:
+		for i in range(3,n+1):
+
+			dic[i]=dic[i-1]+dic[i-2]
+	
+		return dic[n]
 n=30
 print(climbStairs(n))
