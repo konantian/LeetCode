@@ -33,6 +33,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|Array|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](./Math/isHappy.py), [Java](./Math/isHappy.java)|Easy|Math|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|Array|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|Array|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
