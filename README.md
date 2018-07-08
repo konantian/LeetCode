@@ -47,6 +47,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Python](./HashTable/intersect.py), [Java](./HashTable/intersect.java)|Easy|HashTable|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Python](./HashTable/findTheDifference.py), [Java](./HashTable/findTheDifference.java)|Easy|HashTable|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
