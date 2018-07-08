@@ -33,14 +33,18 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|Hash Table|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python](./Math/titleToNumber.py), [Java](./Math/titleToNumber.java)|Easy|Math|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|Array|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](./Math/isHappy.py), [Java](./Math/isHappy.java)|Easy|Math|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|Array|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|Array|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|HashTable|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|HashTable|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Python](./HashTable/intersect.py), [Java](./HashTable/intersect.java)|Easy|HashTable|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
