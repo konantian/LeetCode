@@ -63,6 +63,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|Array|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|Array|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|Array|
+|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Python](./String/judgeCircle.py), [Java](./String/judgeCircle.java)|Easy|String|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Python](./Array/imageSmoother.py), [Java](./Array/imageSmoother.java)|Easy|Array|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Python](./Array/checkPossibility.py), [Java](./Array/checkPossibility.java)|Easy|Array|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Python](./Array/findLengthOfLCIS.py), [Java](./Array/findLengthOfLCIS.java)|Easy|Array|
