@@ -62,6 +62,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Python](./String/reverseWords.py), [Java](./String/reverseWords.java)|Easy|String|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Python](./Array/matrixReshape.py), [Java](./Array/matrixReshape.java)|Easy|Array|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Python](./Array/findUnsortedSubarray.py), [Java](./Array/findUnsortedSubarray.java)|Easy|Array|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Python](./HashTable/findRestaurant.py), [Java](./HashTable/findRestaurant.java)|Easy|HashTable|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|Array|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|Array|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|Array|
