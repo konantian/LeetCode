@@ -41,6 +41,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|HashTable|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|HashTable|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|HashTable|
