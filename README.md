@@ -38,6 +38,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](./Math/isHappy.py), [Java](./Math/isHappy.java)|Easy|Math|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|Array|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|Array|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](./Math/isPowerOfTwo.py), [Java](./Math/isPowerOfTwo.java)|Easy|Math|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|HashTable|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
