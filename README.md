@@ -78,6 +78,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|Array|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./HashTable/numJewelsInStones.py), [Java](./HashTable/numJewelsInStones.java)|Easy|HashTable|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Python](./String/uniqueMorseRepresentations.py), [Java](./String/uniqueMorseRepresentations.java)|Easy|String|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Python](./String/mostCommonWord.py), [Java](./String/mostCommonWord.java)|Easy|String|
