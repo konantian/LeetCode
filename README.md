@@ -89,3 +89,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Python](./Array/numMagicSquaresInside.py), [Java](./Array/numMagicSquaresInside.java)|Easy|Array|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [Python](./Array/maxDistToClosest.py), [Java](./Array/maxDistToClosest.java)|Easy|Array|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Python](./String/buddyStrings.py), [Java](./String/buddyStrings.java)|Easy|String|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Python](./Array/transpose.py), [Java](./Array/transpose.java)|Easy|Array|
