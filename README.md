@@ -78,6 +78,8 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Python](./String/validPalindrome.py), [Java](./String/validPalindrome.java)|Easy|String|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Python](./Array/maxAreaOfIsland.py), [Java](./Array/maxAreaOfIsland.java)|Easy|Array|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Python](./Array/findShortestSubArray.py), [Java](./Array/findShortestSubArray.java)|Easy|Array|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Python](./String/toLowerCase.py), [Java](./String/toLowerCase.java)|Easy|String|
+
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|Array|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
