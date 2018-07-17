@@ -32,7 +32,7 @@ def toLowerCase(str):
 	"""
 	return str.lower()
 
-#Using ascii table 
+#Self solution Using ascii table, Time complexity:O(n) Space complexity:O(1)
 def toLowerCaseB(str):
 	"""
 	:type str: str
