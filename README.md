@@ -57,6 +57,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) | [Python](./String/compress.py), [Java](./String/compress.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](./HashTable/islandPerimeter.py), [Java](./HashTable/islandPerimeter.java)|Easy|HashTable|
