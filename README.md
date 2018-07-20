@@ -26,6 +26,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DP/climbStairs.py), [Java](./DP/climbStairs.java)|Easy|Dynamic Programming|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](./Tree/isValidBST.py), [Java](./Tree/isValidBST.java)|Medium|Tree|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [Python](./Tree/isSameTree.py), [Java](./Tree/isSameTree.java)|Easy|Tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Python](./Array/pascalTriangle.py), [Java](./Array/pascalTriangle.java)|Easy|Array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Python](./Array/pascalTriangleII.py), [Java](./Array/pascalTriangleII.java)|Easy|Array|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Array/BestTimeToBuyAndSellStock.py), [Java](./Array/BestTimeToBuyAndSellStock.java)|Easy|Array|
