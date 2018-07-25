@@ -22,6 +22,15 @@ class SLinked_List:
 		for i in elements:
 			self.append(i)
 
+	def search(self,item):
+		
+		current=self.head
+
+		while current != None:
+			if current.val == item:
+				return current
+			current=current.next
+			
 	def __str__(self):
 		s= '['
 		i=0
