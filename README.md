@@ -49,7 +49,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](./Math/isPowerOfTwo.py), [Java](./Math/isPowerOfTwo.java)|Easy|Math|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Python](./LinkedList/isPalindrome.py), [Java](./LinkedList/isPalindrome.java)|Easy|Linked List|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./LinkedList/deleteNode.py), [Java](./LinkedList/deleteNode.java)|Easy|Linked List|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|HashTable|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|Hash Table|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
