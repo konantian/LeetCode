@@ -52,7 +52,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|HashTable|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|HashTable|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Python](./Math/isPowerOfThree.py), [Java](./Math/isPowerOfThree.java)|Easy|Math|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Python](./BM/isPowerOfFour.py), [Java](./BM/isPowerOfFour.java)|Easy|Bit Manipulation|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
