@@ -1,4 +1,4 @@
-#Source : https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+#Source : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 #Author : Yuan Wang
 #Date   : 2018-07-25
 '''

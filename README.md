@@ -25,6 +25,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./Math/addBinary.py), [Java](./Math/addBinary.java)|Easy|String|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DP/climbStairs.py), [Java](./DP/climbStairs.java)|Easy|Dynamic Programming|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./LinkedList/deleteDuplicates.py), [Java](./LinkedList/deleteDuplicates.java)|Easy|Linked List|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](./Tree/isValidBST.py), [Java](./Tree/isValidBST.java)|Medium|Tree|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [Python](./Tree/isSameTree.py), [Java](./Tree/isSameTree.java)|Easy|Tree|
