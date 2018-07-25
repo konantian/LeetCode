@@ -57,19 +57,19 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Python](./BM/isPowerOfFour.py), [Java](./BM/isPowerOfFour.java)|Easy|Bit Manipulation|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|HashTable|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Python](./HashTable/intersect.py), [Java](./HashTable/intersect.java)|Easy|HashTable|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|Hash Table|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Python](./HashTable/intersect.py), [Java](./HashTable/intersect.java)|Easy|Hash Table|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
-|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Python](./HashTable/findTheDifference.py), [Java](./HashTable/findTheDifference.java)|Easy|HashTable|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Python](./HashTable/longestPalindrome.py), [Java](./HashTable/longestPalindrome.java)|Easy|HashTable|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Python](./HashTable/findTheDifference.py), [Java](./HashTable/findTheDifference.java)|Easy|Hash Table|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Python](./HashTable/longestPalindrome.py), [Java](./HashTable/longestPalindrome.java)|Easy|Hash Table|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
 |443|[String Compression](https://leetcode.com/problems/string-compression/description/) | [Python](./String/compress.py), [Java](./String/compress.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
-|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](./HashTable/islandPerimeter.py), [Java](./HashTable/islandPerimeter.java)|Easy|HashTable|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](./HashTable/islandPerimeter.py), [Java](./HashTable/islandPerimeter.java)|Easy|Hash Table|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|Array|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Python](./String/detectCapitalUse.py), [Java](./String/detectCapitalUse.java)|Easy|String|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Python](./String/findLUSlength.py), [Java](./String/findLUSlength.java)|Easy|String|
@@ -79,7 +79,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Python](./String/reverseWords.py), [Java](./String/reverseWords.java)|Easy|String|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Python](./Array/matrixReshape.py), [Java](./Array/matrixReshape.java)|Easy|Array|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Python](./Array/findUnsortedSubarray.py), [Java](./Array/findUnsortedSubarray.java)|Easy|Array|
-|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Python](./HashTable/findRestaurant.py), [Java](./HashTable/findRestaurant.java)|Easy|HashTable|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Python](./HashTable/findRestaurant.py), [Java](./HashTable/findRestaurant.java)|Easy|Hash Table|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Python](./Array/canPlaceFlowers.py), [Java](./Array/canPlaceFlowers.java)|Easy|Array|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Python](./Array/maximumProduct.py), [Java](./Array/maximumProduct.java)|Easy|Array|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Python](./Array/findMaxAverage.py), [Java](./Array/findMaxAverage.java)|Easy|Array|
@@ -94,7 +94,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|Array|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./HashTable/numJewelsInStones.py), [Java](./HashTable/numJewelsInStones.java)|Easy|HashTable|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./HashTable/numJewelsInStones.py), [Java](./HashTable/numJewelsInStones.java)|Easy|Hash Table|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Python](./String/uniqueMorseRepresentations.py), [Java](./String/uniqueMorseRepresentations.java)|Easy|String|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Python](./String/mostCommonWord.py), [Java](./String/mostCommonWord.java)|Easy|String|
