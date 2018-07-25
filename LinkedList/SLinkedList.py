@@ -18,6 +18,10 @@ class SLinked_List:
 			current.next=temp
 		self.size+=1
 
+	def add_elements(self,elements):
+		for i in elements:
+			self.append(i)
+
 	def __str__(self):
 		s= '['
 		i=0

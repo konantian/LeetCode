@@ -37,13 +37,10 @@ def removeNthFromEnd(head,n):
 
 	return head
 	
-sll=SLinked_List()
+elements=[1,2,3,4,5]
 
-sll.append(1)
-sll.append(2)
-sll.append(3)
-sll.append(4)
-sll.append(5)
+sll=SLinked_List()
+sll.add_elements(elements)
 
 print(sll)
 removeNthFromEnd(sll.head,2)

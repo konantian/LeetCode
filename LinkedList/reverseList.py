@@ -34,14 +34,10 @@ def reverseList(head):
 	
 	return currentNode
 
+elements=[1,2,3,4,5]
+
 sll=SLinked_List()
-
-sll.append(1)
-sll.append(2)
-sll.append(3)
-sll.append(4)
-sll.append(5)
-
+sll.add_elements(elements)
 
 print(sll)
 reverseList(sll.head)

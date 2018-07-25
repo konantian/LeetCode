@@ -31,16 +31,10 @@ def deleteDuplicates(head):
 	return head
 
 
+elements=[1,1,2,2,3,3,3]
+
 sll=SLinked_List()
-
-sll.append(1)
-sll.append(1)
-sll.append(2)
-sll.append(2)
-sll.append(3)
-sll.append(3)
-sll.append(3)
-
+sll.add_elements(elements)
 
 print(sll)
 deleteDuplicates(sll.head)
