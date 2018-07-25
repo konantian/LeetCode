@@ -37,7 +37,7 @@ class SLinked_List:
 		current=self.head
 		while current != None:
 			if i>0:
-				s = s + ','
+				s = s + '->'
 			dataObject = current.val
 			if dataObject != None:
 				s = s + "%s" % dataObject
