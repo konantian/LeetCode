@@ -43,6 +43,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python](./Math/titleToNumber.py), [Java](./Math/titleToNumber.java)|Easy|Math|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|Array|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](./Math/isHappy.py), [Java](./Math/isHappy.java)|Easy|Math|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Python](./LinkedList/reverseList.py), [Java](./LinkedList/reverseList.java)|Easy|Linked List|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|Array|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|Array|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](./Math/isPowerOfTwo.py), [Java](./Math/isPowerOfTwo.java)|Easy|Math|
