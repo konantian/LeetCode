@@ -24,7 +24,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./String/lengthOfLastWord.py), [Java](./String/lengthOfLastWord.java)|Easy|String|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./Math/addBinary.py), [Java](./Math/addBinary.java)|Easy|String|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DP/climbStairs.py), [Java](./DP/climbStairs.java)|Easy|Dynamic Programming|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DynamicProgramming/climbStairs.py), [Java](./DynamicProgramming/climbStairs.java)|Easy|Dynamic Programming|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./LinkedList/deleteDuplicates.py), [Java](./LinkedList/deleteDuplicates.java)|Easy|Linked List|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](./Tree/isValidBST.py), [Java](./Tree/isValidBST.java)|Medium|Tree|
@@ -55,7 +55,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Python](./Math/isPowerOfThree.py), [Java](./Math/isPowerOfThree.java)|Easy|Math|
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Python](./BM/isPowerOfFour.py), [Java](./BM/isPowerOfFour.java)|Easy|Bit Manipulation|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Python](./BitManipulation/isPowerOfFour.py), [Java](./BitManipulation/isPowerOfFour.java)|Easy|Bit Manipulation|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|Hash Table|
