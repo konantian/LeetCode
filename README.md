@@ -38,6 +38,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./Array/BestTimeToBuyAndSellStockII.py), [Java](./Array/BestTimeToBuyAndSellStockII.java)|Easy|Array|
 |125|[Valid Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./String/isPalindrome.py), [Java](./String/isPalindrome.java)|Easy|String|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|Hash Table|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Stack/MinStack.py), [Java](./Stack/MinStack.java)|Easy|Stack|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python](./Math/titleToNumber.py), [Java](./Math/titleToNumber.java)|Easy|Math|
