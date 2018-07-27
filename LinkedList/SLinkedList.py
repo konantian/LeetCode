@@ -30,18 +30,22 @@ class SLinked_List:
 			if current.val == item:
 				return current
 			current=current.next
+
+	def reverse(self):
+		previous=None
+		current=self.head
+		while current is not None:
+			next_node=current.next
+			current.next=previous
+			previous=current
+			current=next_node
+		self.head=previous
 			
 	def __str__(self):
-		s= '['
-		i=0
-		current=self.head
-		while current != None:
-			if i>0:
-				s = s + '->'
-			dataObject = current.val
-			if dataObject != None:
-				s = s + "%s" % dataObject
-				i = i + 1
+		output = []
+		current = self.head
+		while current:
+			output.append(current.val)
 			current = current.next
-		s = s + ']'
-		return s   
+		output=[str(i) for i in output]
+		return "->".join(output) 
