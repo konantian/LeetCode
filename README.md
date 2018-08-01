@@ -41,6 +41,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |125|[Valid Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./String/isPalindrome.py), [Java](./String/isPalindrome.java)|Easy|String|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|Hash Table|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./LinkedList/hasCycle.py), [Java](./LinkedList/hasCycle.java)|Easy|Linked List|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./LinkedList/detectCycle.py), [Java](./LinkedList/detectCycle.java)|Medium|Linked List|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Python](./Tree/preorderTraversal.py), [Java](./Tree/preorderTraversal.java)|Medium|Tree|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Stack/MinStack.py), [Java](./Stack/MinStack.java)|Easy|Stack|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
