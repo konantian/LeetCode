@@ -43,6 +43,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./LinkedList/hasCycle.py), [Java](./LinkedList/hasCycle.java)|Easy|Linked List|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./LinkedList/detectCycle.py), [Java](./LinkedList/detectCycle.java)|Medium|Linked List|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Python](./Tree/preorderTraversal.py), [Java](./Tree/preorderTraversal.java)|Medium|Tree|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Python](./Tree/postorderTraversal.py), [Java](./Tree/postorderTraversal.java)|Hard|Tree|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Stack/MinStack.py), [Java](./Stack/MinStack.java)|Easy|Stack|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./Array/TwoSumII.py), [Java](./Array/TwoSumII.java)|Easy|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
@@ -58,6 +59,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Python](./LinkedList/isPalindrome.py), [Java](./LinkedList/isPalindrome.java)|Easy|Linked List|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./LinkedList/deleteNode.py), [Java](./LinkedList/deleteNode.java)|Easy|Linked List|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|Hash Table|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./Tree/binaryTreePaths.py), [Java](./Tree/binaryTreePaths.java)|Easy|Tree|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
