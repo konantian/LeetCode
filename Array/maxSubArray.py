@@ -28,37 +28,37 @@ def maxSubArray(nums):
 	:type nums: List[int]
 	:rtype: int
 	"""
-	maxSoFar=nums[0]
-	maxEndingHere=nums[0]
+	maxSoFar = nums[0]
+	maxEndingHere = nums[0]
 	for i in range(1,len(nums)):
-		maxEndingHere=max(maxEndingHere+nums[i],nums[i])
-		maxSoFar=max(maxSoFar,maxEndingHere)
+		maxEndingHere = max(maxEndingHere+nums[i],nums[i])
+		maxSoFar = max(maxSoFar,maxEndingHere)
 		print(maxEndingHere,maxSoFar)
 
 	return maxSoFar
 
 def maxSubArrayB(nums):
-	total=nums[0]
+	total = nums[0]
 	if len(nums) == 1:
 		return nums[0]
 	for i in range(len(nums)):
 		for j in range(1,len(nums)+1):
-			sub_array=nums[i:j]
+			sub_array = nums[i:j]
 			if len(sub_array) != 0:
-				sum_array=sum(sub_array)
+				sum_array = sum(sub_array)
 				if sum_array > total:
-					total=sum_array
+					total = sum_array
 	return total
 
 #DP, to check previous sum, reset it to 0 if it's less than 0
 #O(n-1) time, O(1) space
 def maxSubArrayC(nums):
-	res=nums[0]
-	sum_array=nums[0]
+	res = nums[0]
+	sum_array = nums[0]
 	for i in range(1,len(nums)):
 		#sum_array=max(sum_array,0)+nums[i]
-		sum_array=0+nums[i] if sum_array < 0 else sum_array+nums[i]
-		res=max(res,sum_array)
+		sum_array = 0+nums[i] if sum_array < 0 else sum_array+nums[i]
+		res = max(res,sum_array)
 	return res
 
 print(maxSubArrayC(array))
