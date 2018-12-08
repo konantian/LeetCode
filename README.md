@@ -1,4 +1,4 @@
-LeetCode Self Solution
+LeetCode Self Solution -- First Time
 ========
 
 ### LeetCode Algorithm
