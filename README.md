@@ -116,3 +116,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Python](./String/buddyStrings.py), [Java](./String/buddyStrings.java)|Easy|String|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Python](./Array/transpose.py), [Java](./Array/transpose.java)|Easy|Array|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Python](./Math/binaryGap.py), [Java](./Math/binaryGap.java)|Easy|Math|
+|877|[Stone Game](https://leetcode.com/problems/stone-game/) | [Python](./Math/stoneGame.py), [Java](./Math/stoneGame.java)|Medium|Math|
