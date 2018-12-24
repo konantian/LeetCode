@@ -104,6 +104,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Python](./String/toLowerCase.py), [Java](./String/toLowerCase.java)|Easy|String|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Python](./Array/pivotIndex.py), [Java](./Array/pivotIndex.java)|Easy|Array|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./Array/minCostClimbingStairs.py), [Java](./Array/minCostClimbingStairs.java)|Easy|Array|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./HashTable/numJewelsInStones.py), [Java](./HashTable/numJewelsInStones.java)|Easy|Hash Table|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
