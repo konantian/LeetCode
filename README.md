@@ -120,3 +120,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Python](./Math/binaryGap.py), [Java](./Math/binaryGap.java)|Easy|Math|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/) | [Python](./Math/stoneGame.py), [Java](./Math/stoneGame.java)|Medium|Math|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Python](./Array/fairCandySwap.py), [Java](./Array/fairCandySwap.java)|Easy|Array|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Array/isMonotonic.py), [Java](./Array/isMonotonic.java)|Easy|Array|
