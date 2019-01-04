@@ -46,7 +46,7 @@ def reverseOnlyLettersA(S):
     S="".join(S)
     return S
 
-#Other solution,Time complexity:O(n) Space complexity:O(n)
+#Other solution,using Stack, Time complexity:O(n) Space complexity:O(n)
 def reverseOnlyLettersB(S):
     letters = [c for c in S if c.isalpha()]
     ans = []
