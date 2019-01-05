@@ -61,6 +61,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./LinkedList/deleteNode.py), [Java](./LinkedList/deleteNode.java)|Easy|Linked List|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|Hash Table|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./Tree/binaryTreePaths.py), [Java](./Tree/binaryTreePaths.java)|Easy|Tree|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](./Math/isUgly.py), [Java](./Math/isUgly.java)|Easy|Math|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Python](./Array/missingNumber.py), [Java](./Array/missingNumber.java)|Easy|Array|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
