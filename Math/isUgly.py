@@ -1,5 +1,5 @@
 '''
-Source : https://leetcode.com/problems/unique-email-addresses/
+Source : https://leetcode.com/problems/ugly-number/
 Author : Yuan Wang
 Date   : 2019-01-04
 
