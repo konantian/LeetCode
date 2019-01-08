@@ -126,4 +126,6 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](./String/reverseOnlyLetters.py), [Java](./String/reverseOnlyLetters.java)|Easy|String|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](./Array/sortArrayByParityII.py), [Java](./Array/sortArrayByParityII.java)|Easy|Array|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./String/numUniqueEmails.py), [Java](./String/numUniqueEmails.java)|Easy|String|
-|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./Array/deckRevealedIncreasing.py), [Java](./Array/deckRevealedIncreasing.java)|Medium|Array|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./Array/validMountainArray.py), [Java](./Array/validMountainArray.java)|Easy|Array|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/
+reveal-cards-in-increasing-order/) | [Python](./Array/deckRevealedIncreasing.py), [Java](./Array/deckRevealedIncreasing.java)|Medium|Array|
