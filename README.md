@@ -124,6 +124,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Python](./String/numSpecialEquivGroups.py), [Java](./String/numSpecialEquivGroups.java)|Easy|String|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Array/isMonotonic.py), [Java](./Array/isMonotonic.java)|Easy|Array|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](./Array/sortArrayByParity.py), [Java](./Array/sortArrayByParity.java)|Easy|Array|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [Python](./Array/hasGroupsSizeX.py), [Java](./Array/hasGroupsSizeX.java)|Easy|Array|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](./String/reverseOnlyLetters.py), [Java](./String/reverseOnlyLetters.java)|Easy|String|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](./Array/sortArrayByParityII.py), [Java](./Array/sortArrayByParityII.java)|Easy|Array|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./String/numUniqueEmails.py), [Java](./String/numUniqueEmails.java)|Easy|String|
