@@ -40,9 +40,6 @@ def minIncrementForUnique(A):
             ans += x - taken.pop()
     return ans
 
-
-
-
 import unittest
 class Test(unittest.TestCase):
 
