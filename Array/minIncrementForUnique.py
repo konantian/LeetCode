@@ -25,6 +25,9 @@ Date   : 2019-01-10
 **********************************************************************************/
 '''
 
+import collections
+
+#Other solution, Time complexity:O(N)
 def minIncrementForUnique(A):
     count = collections.Counter(A)
     taken = []
@@ -36,3 +39,21 @@ def minIncrementForUnique(A):
         elif taken and count[x] == 0:
             ans += x - taken.pop()
     return ans
+
+
+
+
+import unittest
+class Test(unittest.TestCase):
+
+    def setUp(self):
+        self.A = [1,2,2]
+        self.B = [3,2,1,2,1,7]
+
+    def test(self):
+        self.assertEqual(minIncrementForUnique(self.A),1)
+        self.assertEqual(minIncrementForUnique(self.B),6)
+
+
+if __name__ == '__main__':
+    unittest.main()
