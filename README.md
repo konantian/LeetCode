@@ -12,6 +12,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |01|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./Array/TwoSum.py), [Java](./Array/TwoSum.java)|Easy|Array|
 |07|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./Math/reverseInteger.py), [Java](./Math/reverseInteger.java)|Easy|Math|
 |09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Python](./Math/isPalindrome.py), [Java](./Math/isPalindrome.java)|Easy|Math|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Python](./Math/romanToInt.py), [Java](./Math/romanToInt.java)|Easy|Math|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|String|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](./LinkedList/removeNthFromEnd.py), [Java](./LinkedList/removeNthFromEnd.java)|Medium|Linked List|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./String/ValidParentheses.py), [Java](./String/ValidParentheses.java)|Easy|String|
