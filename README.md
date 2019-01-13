@@ -128,6 +128,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [Python](./Array/hasGroupsSizeX.py), [Java](./Array/hasGroupsSizeX.java)|Easy|Array|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](./String/reverseOnlyLetters.py), [Java](./String/reverseOnlyLetters.java)|Easy|String|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](./Array/sortArrayByParityII.py), [Java](./Array/sortArrayByParityII.java)|Easy|Array|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/) | [Python](./String/isLongPressedName.py), [Java](./String/isLongPressedName.java)|Easy|String|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./String/numUniqueEmails.py), [Java](./String/numUniqueEmails.java)|Easy|String|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./Array/validMountainArray.py), [Java](./Array/validMountainArray.java)|Easy|Array|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) | [Python](./Array/minIncrementForUnique.py), [Java](./Array/minIncrementForUnique.java)|Medium|Array|
