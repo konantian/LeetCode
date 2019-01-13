@@ -23,6 +23,8 @@ Date   : 2019-01-12
 **********************************************************************************/
 '''
 
+import itertools
+
 def isLongPressedName(name, typed):
     g1 = [(k, len(list(grp))) for k, grp in itertools.groupby(name)]
     g2 = [(k, len(list(grp))) for k, grp in itertools.groupby(typed)]
@@ -31,3 +33,16 @@ def isLongPressedName(name, typed):
 
     return all(k1 == k2 and v1 <= v2
         	for (k1,v1), (k2,v2) in zip(g1, g2))
+
+import unittest
+class Test(unittest.TestCase):
+
+    def setUp(self):
+        self.name = "alex"
+        self.typed = "aaleex"
+
+    def test(self):
+    	self.assertEqual(isLongPressedName(self.name,self.typed),True)
+
+if __name__ == '__main__':
+    unittest.main()
