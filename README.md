@@ -133,3 +133,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./Array/validMountainArray.py), [Java](./Array/validMountainArray.java)|Easy|Array|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) | [Python](./Array/minIncrementForUnique.py), [Java](./Array/minIncrementForUnique.java)|Medium|Array|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./Array/deckRevealedIncreasing.py), [Java](./Array/deckRevealedIncreasing.java)|Medium|Array|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Array/sortedSquares.py), [Java](./Array/sortedSquares.java)|Easy|Array|
