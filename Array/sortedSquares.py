@@ -28,7 +28,7 @@ def sortedSquares(A):
     return sorted([i*i for i in A])
 
 #Solution with two pointer
-def sortedSquares(self, A):
+def sortedSquares(A):
 	answer = [0] * len(A)
 	l, r = 0, len(A) - 1
 	while l <= r:
@@ -40,5 +40,20 @@ def sortedSquares(self, A):
 			answer[r - l] = right * right
 			r -= 1
 	return answer
+
+#Self solution using stack and list reverse
+def sortedSquares(A):
+    answer = []
+    l, r = 0, len(A) - 1
+    while l <= r:
+        left, right = abs(A[l]), abs(A[r])
+        if left > right:
+            answer.append(left * left)
+            l += 1
+        else:
+            answer.append(right * right)
+            r -= 1
+            
+    return answer[::-1]
 
 
