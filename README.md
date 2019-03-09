@@ -135,3 +135,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./Array/deckRevealedIncreasing.py), [Java](./Array/deckRevealedIncreasing.java)|Medium|Array|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Array/sortedSquares.py), [Java](./Array/sortedSquares.java)|Easy|Array|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./Array/sumEvenAfterQueries.py), [Java](./Array/sumEvenAfterQueries.java)|Easy|Array|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Python](./Array/addToArrayForm.py), [Java](./Array/addToArrayForm.java)|Easy|Array|
