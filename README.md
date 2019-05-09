@@ -22,7 +22,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](./LinkedList/removeNthFromEnd.py), [Java](./LinkedList/removeNthFromEnd.java)|Medium|Linked List|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./String/ValidParentheses.py), [Java](./String/ValidParentheses.java)|Easy|String|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py),[Java](./Array/removeDuplicatesFromSortedArray.java),[JavaScript](./Array/removeDuplicatesFromSortedArray.js)|Easy|Array|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py), [Java](./Array/removeElement.java)|Easy|Array|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py),[Java](./Array/removeElement.java),[JavaScript](./Array/removeElement.js)|Easy|Array|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](./String/strStr.py), [Java](./String/strStr.java)|Easy|String|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python](./String/countAndSay.py), [Java](./String/countAndSay.java)|Easy|String|
