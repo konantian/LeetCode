@@ -47,4 +47,11 @@ def reverseString(s):
 		j -= 1
 
 	return "".join(r)
+
+#recursion version
+def reverseString(s,m = 0,n = len(s)-1):
+	if n > m:
+		s[m],s[n] = s[n],s[m]
+		reverseString(s,m+1,n-1)
+
 print(reverseString("HelloWorld"))
