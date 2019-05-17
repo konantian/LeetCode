@@ -40,5 +40,9 @@ def isPowerOfTwo(n):
 
 	return True
 
+#Bitwise operation
+def isPowerOfTwo(self, n: int) -> bool:
+    return (n != 0) and ((n & (n-1)) == 0)
+
 n=218
 print(isPowerOfTwo(n))
