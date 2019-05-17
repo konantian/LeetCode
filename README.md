@@ -90,7 +90,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](./HashTable/islandPerimeter.py), [Java](./HashTable/islandPerimeter.java)|Easy|Hash Table|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|Array|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Array/fib.py),[Java](./Array/fib.java)[JavaScript](./Array/fib.js)|Easy|Array|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Array/fib.py),[Java](./Array/fib.java),[JavaScript](./Array/fib.js)|Easy|Array|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Python](./String/detectCapitalUse.py), [Java](./String/detectCapitalUse.java)|Easy|String|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Python](./String/findLUSlength.py), [Java](./String/findLUSlength.java)|Easy|String|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Python](./Array/findPairs.py), [Java](./Array/findPairs.java)|Easy|Array|
