@@ -23,7 +23,11 @@
 *assume that your function returns 0 when the reversed integer overflows.
 **********************************************************************************/
 '''
-
+#More pythonic solution
+def reverse(self, x: int) -> int:
+	r = x // max(1,abs(x)) * int(str(abs(x))[::-1])
+	return r if r.bit_length() < 32 or r == -2 ** 31 else 0
+        
 #Pythonic solution
 def reverseIntegerA(x):
 	"""
