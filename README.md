@@ -63,7 +63,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Python](./Heap/findKthLargest.py), [Java](./Heap/findKthLargest.java)|Medium|Heap|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./Array/containsDuplicate.py), [Java](./Array/containsDuplicate.java)|Easy|Array|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./Array/containsDuplicateII.py), [Java](./Array/containsDuplicateII.java)|Easy|Array|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](./Math/isPowerOfTwo.py), [Java](./Math/isPowerOfTwo.java)|Easy|Math|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](./Math/isPowerOfTwo.py),[Java](./Math/isPowerOfTwo.java),[JavaScript](./Math/isPowerOfTwo.js)|Easy|Math|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Python](./LinkedList/isPalindrome.py), [Java](./LinkedList/isPalindrome.java)|Easy|Linked List|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./LinkedList/deleteNode.py), [Java](./LinkedList/deleteNode.java)|Easy|Linked List|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./HashTable/isAnagram.py), [Java](./HashTable/isAnagram.java)|Easy|Hash Table|
