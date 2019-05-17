@@ -32,7 +32,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Array/PlusOne.py), [Java](./Array/PlusOne.java)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](./Math/addBinary.py), [Java](./Math/addBinary.java)|Easy|String|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./Math/mySqrt.py), [Java](./Math/mySqrt.java)|Easy|Math|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DynamicProgramming/climbStairs.py), [Java](./DynamicProgramming/climbStairs.java)|Easy|Dynamic Programming|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./DynamicProgramming/climbStairs.py), [Java](./DynamicProgramming/climbStairs.java)|Easy|DP|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./LinkedList/deleteDuplicates.py), [Java](./LinkedList/deleteDuplicates.java)|Easy|Linked List|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python](./Array/mergeTwoSortedArray.py), [Java](./Array/mergeTwoSortedArray.java)|Easy|Array|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python](./Tree/inorderTraversal.py), [Java](./Tree/inorderTraversal.java)|Medium|Tree|
