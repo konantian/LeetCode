@@ -85,6 +85,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Python](./String/countSegments.py), [Java](./String/countSegments.java)|Easy|String|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](./Array/findDuplicates.py),[Java](./Array/findDuplicates.java),[JavaScript](./Array/findDuplicates.js)|Medium|Array|
 |443|[String Compression](https://leetcode.com/problems/string-compression/description/) | [Python](./String/compress.py), [Java](./String/compress.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
