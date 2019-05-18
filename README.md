@@ -130,6 +130,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Python](./Math/binaryGap.py), [Java](./Math/binaryGap.java)|Easy|Math|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/) | [Python](./Math/stoneGame.py), [Java](./Math/stoneGame.java)|Medium|Math|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Python](./Array/fairCandySwap.py), [Java](./Array/fairCandySwap.java)|Easy|Array|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Python](./String/findAndReplacePattern.py),[Java](./String/findAndReplacePattern.java),[JavaScript](./String/findAndReplacePattern.js)|Medium|String|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Python](./String/numSpecialEquivGroups.py), [Java](./String/numSpecialEquivGroups.java)|Easy|String|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Array/isMonotonic.py), [Java](./Array/isMonotonic.java)|Easy|Array|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](./Array/sortArrayByParity.py), [Java](./Array/sortArrayByParity.java)|Easy|Array|
