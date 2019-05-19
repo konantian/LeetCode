@@ -146,3 +146,4 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./Array/sumEvenAfterQueries.py), [Java](./Array/sumEvenAfterQueries.java)|Easy|Array|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Python](./Array/addToArrayForm.py), [Java](./Array/addToArrayForm.java)|Easy|Array|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./Array/commonChars.py),[Java](./Array/commonChars.java),[JavaScript](./Array/commonChars.js)|Easy|Array|
+|1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Python](./String/queryString.py),[Java](./String/queryString.java),[JavaScript](./String/queryString.js)|Medium|String|
