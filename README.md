@@ -118,6 +118,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Python](./Array/dominantIndex.py), [Java](./Array/dominantIndex.java)|Easy|Array|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Python](./HashTable/numJewelsInStones.py), [Java](./HashTable/numJewelsInStones.java)|Easy|Hash Table|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](./String/customSortString.py),[Java](./String/customSortString.java),[JavaScript](./String/customSortString.js)|Medium|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Python](./String/uniqueMorseRepresentations.py), [Java](./String/uniqueMorseRepresentations.java)|Easy|String|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Python](./String/mostCommonWord.py), [Java](./String/mostCommonWord.java)|Easy|String|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Python](./String/toGoatLatin.py), [Java](./String/toGoatLatin.java)|Easy|String|
