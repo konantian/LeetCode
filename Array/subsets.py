@@ -25,10 +25,8 @@ Output:
 '''
 
 #pythonic solution
-def subsetsA(self, nums: List[int]) -> List[List[int]]:
-
-	import itertools
-
+def subsetsA(nums):
+    import itertools
     result = []
     for n in range(len(nums)+1):
         items = [i for i in itertools.combinations(nums,n)]
@@ -37,7 +35,7 @@ def subsetsA(self, nums: List[int]) -> List[List[int]]:
 
 
 # Iteratively
-def subsetsB(self, nums):
+def subsetsB(nums):
     res = [[]]
     for num in sorted(nums):
         res += [item+[num] for item in res]
