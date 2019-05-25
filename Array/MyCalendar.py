@@ -68,3 +68,22 @@ class MyCalendar:
             return False
         self.book_list[i:i] = [start,end]
         return True
+
+#My solution based on Java TreeMap
+class MyCalendar:
+
+    def __init__(self):
+        self.start = []
+        self.end = []
+
+    def book(self, start: int, end: int) -> bool:
+
+        ceillingKey = bisect.bisect_left(self.start,start)
+        if ceillingKey != len(self.start) and self.start[ceillingKey] < end:
+            return False
+        floorKey = ceillingKey-1
+        if floorKey >= 0 and self.end[floorKey] > start:
+            return False
+        bisect.insort(self.start,start)
+        bisect.insort(self.end,end)
+        return True
