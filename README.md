@@ -3,7 +3,7 @@
  [![HitCount](http://hits.dwyl.io/konantian/LeetCode-firstTime-.svg)](http://hits.dwyl.io/konantian/LeetCode-firstTime-)
 
  
-LeetCode Self Solution -- First Time
+LeetCode Self Solution
 ========
 
 ### LeetCode Algorithm
