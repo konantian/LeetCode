@@ -1,6 +1,7 @@
- [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
- [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
- [![HitCount](http://hits.dwyl.io/konantian/LeetCode-firstTime-.svg)](http://hits.dwyl.io/konantian/LeetCode-firstTime-)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)](https://forthebadge.com)
 
  
 LeetCode Self Solution
