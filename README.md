@@ -22,10 +22,11 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|String|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](./LinkedList/removeNthFromEnd.py), [Java](./LinkedList/removeNthFromEnd.java)|Medium|Linked List|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./String/ValidParentheses.py), [Java](./String/ValidParentheses.java)|Easy|String|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./LinkedList/swapPairs.py), [Java](./LinkedList/swapPairs.java)|Medium|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py),[Java](./Array/removeDuplicatesFromSortedArray.java),[JavaScript](./Array/removeDuplicatesFromSortedArray.js)|Easy|Array|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py),[Java](./Array/removeElement.java),[JavaScript](./Array/removeElement.js)|Easy|Array|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](./String/strStr.py), [Java](./String/strStr.java)|Easy|String|
-|34|[Find First and Last Position of Element in Sorted Array](hhttps://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python](./Array/searchRange.py), [Java](./Array/searchRange.java)|Medium|Array|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Python](./Array/searchRange.py), [Java](./Array/searchRange.java)|Medium|Array|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Python](./Array/searchInsertPosition.py), [Java](./Array/searchInsertPosition.java)|Easy|Array|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python](./String/countAndSay.py), [Java](./String/countAndSay.java)|Easy|String|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./Array/maxSubArray.py), [Java](./Array/maxSubArray.java)|Easy|Array|
