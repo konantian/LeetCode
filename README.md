@@ -127,6 +127,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Python](./String/rotatedDigits.py), [Java](./String/rotatedDigits.java)|Easy|String|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](./String/customSortString.py),[Java](./String/customSortString.java),[JavaScript](./String/customSortString.js)|Medium|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Python](./String/uniqueMorseRepresentations.py), [Java](./String/uniqueMorseRepresentations.java)|Easy|String|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Python](./LinkedList/numComponents.py), [Java](./LinkedList/numComponents.java)|Medium|Linked List|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Python](./String/mostCommonWord.py), [Java](./String/mostCommonWord.java)|Easy|String|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Python](./String/toGoatLatin.py), [Java](./String/toGoatLatin.java)|Easy|String|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [Python](./Array/largeGroupPositions.py), [Java](./Array/largeGroupPositions.java)|Easy|Array|
