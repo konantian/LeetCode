@@ -37,23 +37,26 @@ def isPalindromeB(head):
 	:type head: ListNode
 	:rtype: bool
 	"""
-	slow = fast = head
-	while fast and fast.next:
-		slow = slow.next
-		fast = fast.next.next
-	node = None
-	while slow:
-		nxt = slow.next
-		slow.next = node
-		node = slow
-		slow = nxt
-	
-	while node and head:
-		if node.val != head.val:
-			return False
-		node = node.next
-		head = head.next
-	return True
+	# rev records the first half, need to set the same structure as fast, slow, hence later we have rev.next
+    rev = None
+    # initially slow and fast are the same, starting from head
+    slow = fast = head
+    while fast and fast.next:
+        # fast traverses faster and moves to the end of the list if the length is odd
+        fast = fast.next.next
+        
+        # take it as a tuple being assigned (rev, rev.next, slow) = (slow, rev, slow.next), hence the re-assignment of slow would not affect rev (rev = slow)
+        rev, rev.next, slow = slow, rev, slow.next
+    if fast:
+       # fast is at the end, move slow one step further for comparison(cross middle one)
+        slow = slow.next
+    # compare the reversed first half with the second half
+    while rev and rev.val == slow.val:
+        slow = slow.next
+        rev = rev.next
+    
+    # if equivalent then rev become None, return True; otherwise return False 
+    return not rev
 
 elements=[1,2,3,4,3,2,1]
 
