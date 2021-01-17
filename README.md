@@ -116,6 +116,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Python](./String/validPalindrome.py), [Java](./String/validPalindrome.java)|Easy|String|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Python](./Array/maxAreaOfIsland.py), [Java](./Array/maxAreaOfIsland.java)|Easy|Array|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Python](./Array/findShortestSubArray.py), [Java](./Array/findShortestSubArray.java)|Easy|Array|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Python](./Tree/searchBST.py), [Java](./Tree/searchBST.java)|Easy|Tree|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | [Python](./LinkedList/MyLinkedList.py), [Java](./LinkedList/MyLinkedList.java)|Medium|Linked List|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Python](./String/toLowerCase.py), [Java](./String/toLowerCase.java)|Easy|String|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Array/isOneBitCharacter.py), [Java](./Array/isOneBitCharacter.java)|Easy|Array|
