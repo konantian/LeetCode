@@ -52,6 +52,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./Array/BestTimeToBuyAndSellStock.py), [Java](./Array/BestTimeToBuyAndSellStock.java)|Easy|Array|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./Array/BestTimeToBuyAndSellStockII.py), [Java](./Array/BestTimeToBuyAndSellStockII.java)|Easy|Array|
 |125|[Valid Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Python](./String/isPalindrome.py), [Java](./String/isPalindrome.java)|Easy|String|
+|135|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Python](./Array/findMin.py), [Java](./Array/findMin.java)|Medium|Array|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [Python](./HashTable/singleNumber.py), [Java](./HashTable/singleNumber.java)|Easy|Hash Table|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./LinkedList/hasCycle.py), [Java](./LinkedList/hasCycle.java)|Easy|Linked List|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./LinkedList/detectCycle.py), [Java](./LinkedList/detectCycle.java)|Medium|Linked List|
