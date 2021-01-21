@@ -8,7 +8,7 @@ Date   : 2018-06-04
 * Rotate an array of n elements to the right by k steps.
 * For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4]. 
 * 
-*Example 2:
+*Example 1:
 * 
 * Input: [-1,-100,3,99] and k = 2
 * Output: [3,99,-1,-100]
