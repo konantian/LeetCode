@@ -81,6 +81,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Python](./Array/moveZeros.py), [Java](./Array/moveZeros.java)|Easy|Array|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Python](./HashTable/wordPattern.py), [Java](./HashTable/wordPattern.java)|Easy|Hash Table|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Python](./Math/isPowerOfThree.py), [Java](./Math/isPowerOfThree.java)|Easy|Math|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Python](./BitManipulation/countBits.py), [Java](./BitManipulation/countBits.java)|Medium|Bit Manipulation|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Python](./BitManipulation/isPowerOfFour.py), [Java](./BitManipulation/isPowerOfFour.java)|Easy|Bit Manipulation|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Python](./String/reverseString.py), [Java](./String/reverseString.java)|Easy|String|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
