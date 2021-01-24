@@ -21,20 +21,16 @@ def isPowerOfFourA(num):
 	"""
 	if num <= 0:
 		return False
-	
-	elif num == 1:
-		return True
-	
-	x = 1
-	count = 0
-	for i in range(32):
-		if num & x:
-			count += 1
-			if i % 2 != 0:
-				return False
-	
-		x = x << 1
-	return count == 1
+
+	if num & (num-1) != 0:
+		return False
+
+	total = 0
+	while num > 1:
+		total += 1
+		num = num >> 1
+  
+	return total & 1 == 0
 
 #Bit manipulation without using loop
 def isPowerOfFourB(num):

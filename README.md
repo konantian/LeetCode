@@ -64,6 +64,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Array/majorityElement.py), [Java](./Array/majorityElement.java)|Easy|Array|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python](./Math/titleToNumber.py), [Java](./Math/titleToNumber.java)|Easy|Math|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python](./Array/rotateArray.py), [Java](./Array/rotateArray.java)|Easy|Array|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python](./BitManipulation/hammingWeight.py), [Java](./BitManipulation/hammingWeight.java)|Easy|Bit Manipulation|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](./Math/isHappy.py), [Java](./Math/isHappy.java)|Easy|Math|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./LinkedList/removeElements.py), [Java](./LinkedList/removeElements.java)|Easy|Linked List|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Python](./LinkedList/reverseList.py), [Java](./LinkedList/reverseList.java)|Easy|Linked List|
