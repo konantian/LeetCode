@@ -87,6 +87,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Python](./String/reverseVowels.py), [Java](./String/reverseVowels.java)|Easy|String|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Python](./HashTable/intersection.py), [Java](./HashTable/intersection.java)|Easy|Hash Table|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Python](./HashTable/intersect.py), [Java](./HashTable/intersect.java)|Easy|Hash Table|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [JavaScript](./BitManipulation/getSum.js), [Java](./BitManipulation/getSum.java)|Medium|Bit Manipulation|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Python](./HashTable/findTheDifference.py), [Java](./HashTable/findTheDifference.java)|Easy|Hash Table|
