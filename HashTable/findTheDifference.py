@@ -24,7 +24,7 @@
 **********************************************************************************/
 '''
 
-#Self solution, using dictionary Time complexity:O(n) Space complexity:O(1)
+#Self solution, using dictionary Time complexity:O(n) Space complexity:O(n)
 def findTheDifferenceA(s, t):
 	"""
 	:type s: str
@@ -47,11 +47,13 @@ def findTheDifferenceB(s, t):
 	:type t: str
 	:rtype: str
 	"""
-	string=s+t
-	result=ord(string[0])
-	for i in range(1,len(string)):
-		result ^= ord(string[i])
-	
+	result = 0
+	for char in t:
+		result += ord(char)
+
+	for char in s:
+		result -= ord(char)
+
 	return chr(result)
 
 
