@@ -91,6 +91,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./String/canConstruct.py), [Java](./String/canConstruct.java)|Easy|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Python](./String/firstUniqChar.py), [Java](./String/firstUniqChar.java)|Easy|String|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Python](./HashTable/findTheDifference.py), [Java](./HashTable/findTheDifference.java)|Easy|Hash Table|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) | [Python](./BitManipulation/integerReplacement.py), [Java](./BitManipulation/integerReplacement.java)|Medium|Bit Manipulation|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Python](./HashTable/longestPalindrome.py), [Java](./HashTable/longestPalindrome.java)|Easy|Hash Table|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./Math/fizzBuzz.py), [Java](./Math/fizzBuzz.java)|Easy|Math|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Python](./Array/thirdMaximumNumber.py), [Java](./Array/thirdMaximumNumber.java)|Easy|Array|
