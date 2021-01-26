@@ -24,7 +24,7 @@
 **********************************************************************************/
 '''
 
-#Self solution, using dictionary Time complexity:O(n) Space complexity:O(1)
+#Self solution, using dictionary Time complexity:O(n) Space complexity:O(n)
 def findTheDifferenceA(s, t):
 	"""
 	:type s: str
