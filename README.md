@@ -100,6 +100,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |443|[String Compression](https://leetcode.com/problems/string-compression/description/) | [Python](./String/compress.py), [Java](./String/compress.java)|Easy|String|
 |448|[Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Python](./Array/findDisappearedNumbers.py), [Java](./Array/findDisappearedNumbers.java)|Easy|Array|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Python](./String/repeatedSubstringPattern.py), [Java](./String/repeatedSubstringPattern.java)|Easy|String|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Python](./BitManipulation/hammingDistance.py), [Java](./BitManipulation/hammingDistance.java)|Easy|Bit Manipulation|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](./HashTable/islandPerimeter.py), [Java](./HashTable/islandPerimeter.java)|Easy|Hash Table|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Python](./Array/findMaxConsecutiveOnes.py), [Java](./Array/findMaxConsecutiveOnes.java)|Easy|Array|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Array/fib.py),[Java](./Array/fib.java),[JavaScript](./Array/fib.js)|Easy|Array|
