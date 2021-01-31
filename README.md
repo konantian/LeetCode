@@ -23,6 +23,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./String/longestCommonPrefix.py), [Java](./String/longestCommonPrefix.java)|Easy|String|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](./LinkedList/removeNthFromEnd.py), [Java](./LinkedList/removeNthFromEnd.java)|Medium|Linked List|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./String/ValidParentheses.py), [Java](./String/ValidParentheses.java)|Easy|String|
+|21|[Merge Two Sorted Lists](hhttps://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./LinkedList/mergeTwoLists.py), [Java](./LinkedList/mergeTwoLists.java)|Easy|Linked List|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./LinkedList/swapPairs.py), [Java](./LinkedList/swapPairs.java)|Medium|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Array/removeDuplicatesFromSortedArray.py),[Java](./Array/removeDuplicatesFromSortedArray.java),[JavaScript](./Array/removeDuplicatesFromSortedArray.js)|Easy|Array|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Array/removeElement.py),[Java](./Array/removeElement.java),[JavaScript](./Array/removeElement.js)|Easy|Array|
