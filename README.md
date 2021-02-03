@@ -7,7 +7,7 @@
 LeetCode Self Solution
 ========
 
-### Favorite Memos
+### Favourite Memos
 Stay Hungry, Stay Foolish - Steve Jobs\
 The only source of knowledge is experience - Albert Einstein\
 Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
