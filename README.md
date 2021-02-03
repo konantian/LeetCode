@@ -7,7 +7,7 @@
 LeetCode Self Solution
 ========
 
-### LeetCode Algorithm
+### Favorite Memos
 Stay Hungry, Stay Foolish - Steve Jobs\
 The only source of knowledge is experience - Albert Einstein\
 Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
