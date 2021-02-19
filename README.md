@@ -16,6 +16,7 @@ Algorithms Plus Data Structures Equals Programs - Niklaus Wirth
 | # | Title | Solution | Difficulty | Tag |
 |---|:-----:| -------- |:----------:|:---:|
 |01|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./Array/TwoSum.py),[Java](./Array/TwoSum.java),[JavaScript](./Array/TwoSum.js)|Easy|Array|
+|02|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./LinkedList/addTwoNumbers.py),[Java](./LinkedList/addTwoNumbers.java)|Medium|Linked List|
 |04|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./Array/findMedianSortedArrays.py),[Java](./Array/findMedianSortedArrays.java),[JavaScript](./Array/findMedianSortedArrays.js)|Hard|Array|
 |07|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./Math/reverseInteger.py), [Java](./Math/reverseInteger.java)|Easy|Math|
 |09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Python](./Math/isPalindrome.py), [Java](./Math/isPalindrome.java)|Easy|Math|
